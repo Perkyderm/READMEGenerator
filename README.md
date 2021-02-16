@@ -2,7 +2,7 @@
 
 ## Description
 
-    To create any file using node, nod_modules, and js.
+    To create an file using node & js
 
 ## Table of Contents
 
@@ -18,13 +18,9 @@
 
 Packages required to run this program are: Inquirer
 
-# Demo
-
-![altext](./demo.mp4)
-
 ## Usage
 
-Examples of how to use this program: See description
+Examples of how to use this program: A user enter node index.js into the terminal and answers prompts, then a README file is created.
 
 ## License
 
@@ -36,8 +32,12 @@ To test, run the following command: node index.js
 
 ## Contributors
 
-Myself
+N/A
 
 ## Contact
 
-https://github.com/Perkyderm
+If you have any questions, contact the author directly at
+
+https://github.com/Perkyderm or
+
+example e-mail.
