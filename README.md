@@ -40,6 +40,4 @@ Myself
 
 ## Contact
 
-Email:(https://github.com/Perkyderm)
-
-If you have any questions, contact the author directly at ncgoedecke@gmail.com.
+https://github.com/Perkyderm
