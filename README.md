@@ -34,10 +34,3 @@ To test, run the following command: node index.js
 
 N/A
 
-## Contact
-
-If you have any questions, contact the author directly at
-
-https://github.com/Perkyderm or
-
-example e-mail.
